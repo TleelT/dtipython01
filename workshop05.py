@@ -5,7 +5,7 @@
 fullname = input('ป้อนชื่อ: ')
 mid_score = input('ป้อนคะแนนกลางภาค: ')
 final_score = input('ป้อนคะแนนปลายภาค: ')
-quiz_score = input('ป้อนคะแนนเก็บ: ')
+quiz_score = input('ป้อนคะแนนเก็บ: ')Chonlasit tunpiriyakul
 print('------------')
 print(f'สวัสดีคุณ : {fullname}')
 print(f'คุณสอบได้คะแนนรวม : {mid_score + final_score + quiz_score} คะแนน')
